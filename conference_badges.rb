@@ -13,6 +13,6 @@ end
 def assign_rooms(array)
   room_array = []
   array.each do |name|
-    room_assignment = name.index + 1 
+    room_assignment = name.index + 1
   end
 end
