@@ -11,6 +11,6 @@ end
 
 def assign_rooms(array)
   array.each do
-    
+
   end
 end
