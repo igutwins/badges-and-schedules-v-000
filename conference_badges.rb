@@ -11,7 +11,8 @@ end
 
 
 def assign_rooms(array)
-array.each do |name|
-    room_assignment = name.index + 1
+  room_array = []
+  array.each do |name|
+    room_assignment = name.index + 1 
   end
 end
